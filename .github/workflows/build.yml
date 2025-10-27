@@ -18,4 +18,4 @@ jobs:
         with:
           name: build-output
           path: |
-            dist
+            build
